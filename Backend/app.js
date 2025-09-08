@@ -1,6 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
-
+import shortUrl from './src/routes/shorturls.routes.js';
 
 dotenv.config('./.env'); //Load Environment Variables from .env file.
 
