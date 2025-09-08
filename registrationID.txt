@@ -1,0 +1,8 @@
+{
+    "email": "vinayyd277@gmail.com",
+    "name": "vinay yadav",
+    "rollNo": "2201641540126",
+    "accessCode": "sAWTuR",
+    "clientID": "0884d972-10a6-4532-8d5d-60075f3d541c",
+    "clientSecret": "vSDnxnDtMkzTGUPZ"
+}
